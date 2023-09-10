@@ -1,4 +1,4 @@
 void doSomething(int value)
 {
-    printf("%u", 7);
+    printf("%u", 8);
 }
