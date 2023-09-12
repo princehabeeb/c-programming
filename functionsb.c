@@ -2,9 +2,11 @@
 
 int main(void)
 {
-    void addMeNumbers(int b){
-        // return 2 + b;
-        printf("%n", 2 + b)}
+    void addMeNumbers(b)
+    {
+        int add = 2 + b;
+        return b;
+    }
 
     addMeNumbers(5);
 }
